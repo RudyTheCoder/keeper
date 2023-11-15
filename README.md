@@ -27,21 +27,17 @@ To get started with this project, follow these steps:
    git clone https://github.com/RudyTheCoder/keeper.git
    ```
 
-2. **Install dependencies** using npm or yarn:
+2. **Install dependencies:**
    npm install
-
-# or
-
-yarn install
+   or
+   yarn install
 
 3. **Run the development server:**
    npm run dev
+   or
+   yarn dev
 
-# or
-
-yarn dev
-
-4. Open your web browser and access the application at http://localhost:3000.
+5. Open your web browser and access the application at http://localhost:3000.
 
 ## Contributing
 
